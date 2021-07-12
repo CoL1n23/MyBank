@@ -1,4 +1,4 @@
-# mybank
+# MyBank
 
 ### Colin Wu, Summer 2021
 
